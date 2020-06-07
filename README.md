@@ -1,0 +1,2 @@
+# EasyAlgorithm
+Let algorithm easy!
